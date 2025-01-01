@@ -1,0 +1,4236 @@
+{
+  "live": [
+    {
+      "status": "Live",
+      "teams": [
+        "BRH",
+        "MLS"
+      ],
+      "match_link": "https://crex.live/scoreboard/QCY/1MV/19th-Match/4J/4M/brh-vs-mls-19th-match-big-bash-league-2024-25/live",
+      "info_data": {
+        "match_venue": "The Gabba, Brisbane",
+        "match_date": "Jan 1, 2025, 1:45:00 PM",
+        "teams_name": [
+          "Brisbane Heat",
+          "Melbourne Stars"
+        ],
+        "series_name": "BBL 2024-25",
+        "toss_info": "MLS won the toss and chose to bowl",
+        "head_to_head": [
+          "6",
+          "4"
+        ],
+        "match_result": [
+          "MLS162/620.0BRH Won 4th T20I, BBL 2024-25BRH18.1163/2",
+          "BRH214/320.0BRH Won 1st T20I, BBL 2023-24MLS15.1111",
+          "BRH188/420.0BRH Won 51st T20I, BBL 2022-23MLS20.0184/3",
+          "MLS159/720.0BRH Won 44th T20I, BBL 2022-23BRH20.0160/7",
+          "MLS150/213.5MLS Won 51st T20I, BBL 2021-22BRH20.0149/6"
+        ],
+        "scorecard_table": "10  Matches Played  10  60%  Win  20%  155  Avg Score  152  214  Highest Score  194  113  Lowest Score  116",
+        "venue_details": "The Gabba, Brisbane24.7˚CCloudyCloudy73% (Humidity)55 % Chance",
+        "venue_stats": "64MatchesWin Bat first45%Win Bowl first47%Avg 1st Inns167Avg 2st Inns153Highest Totalby BRH vs SYS224-5 Lowest Totalby PRS vs BRH51-1 Highest Chasedby HBH vs BRH210-7 Lowest Defendedby PRS vs BRH109-4",
+        "pace_vs_spin_on_venue": "Pace83 Wkt74%26%Spin29 Wkt"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "BRH",
+            "playing_11": [
+              {
+                "player_name": "T Banton",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C Munro",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N McSweeney",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Renshaw",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Bryant",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Walter",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "W Prestwidge",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "X Bartlett",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Johnson",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Swepson",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Kuhnemann",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "MLS",
+            "playing_11": [
+              {
+                "player_name": "B Duckett",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Rogers",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Lawrence",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Cartwright",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Stoinis",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "G Maxwell",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Harper",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "U Mir",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Steketee",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Paris",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Siddle",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [
+          {
+            "name": "D Lawrence",
+            "runs": "30",
+            "balls": "22",
+            "fours": "3",
+            "sixes": "0",
+            "sr": "136.36",
+            "on_strike": false
+          },
+          {
+            "name": "M Stoinis",
+            "runs": "47",
+            "balls": "31",
+            "fours": "9",
+            "sixes": "0",
+            "sr": "151.61",
+            "on_strike": true
+          }
+        ],
+        "bowler": {
+          "name": "P Walter",
+          "figures": "0-31",
+          "overs": "(2.0)",
+          "economy": "15.50"
+        },
+        "overs_timeline": [
+          {
+            "over_title": "10th Over:",
+            "balls": [
+              "4",
+              "4",
+              "1",
+              "2",
+              "1",
+              "1"
+            ],
+            "total": "13"
+          },
+          {
+            "over_title": "Last Over:",
+            "balls": [
+              "0",
+              "2",
+              "1",
+              "1",
+              "4",
+              "0"
+            ],
+            "total": "8"
+          },
+          {
+            "over_title": "This Over:",
+            "balls": [
+              "0",
+              "4",
+              "4",
+              "1",
+              "4",
+              "1"
+            ],
+            "total": "14"
+          }
+        ],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "batting": [
+          [
+            {
+              "batter": "Ben Duckett",
+              "runs": "0",
+              "balls": "1",
+              "fours": "0",
+              "sixes": "0",
+              "strike_rate": "0.00"
+            },
+            {
+              "batter": "Thomas Rogers",
+              "runs": "6",
+              "balls": "7",
+              "fours": "1",
+              "sixes": "0",
+              "strike_rate": "85.71"
+            },
+            {
+              "batter": "Sam Harper(WK)",
+              "runs": "8",
+              "balls": "11",
+              "fours": "0",
+              "sixes": "0",
+              "strike_rate": "72.73"
+            },
+            {
+              "batter": "Daniel Lawrence",
+              "runs": "30",
+              "balls": "22",
+              "fours": "3",
+              "sixes": "0",
+              "strike_rate": "136.36"
+            },
+            {
+              "batter": "Marcus Stoinis(C)",
+              "runs": "47",
+              "balls": "31",
+              "fours": "9",
+              "sixes": "0",
+              "strike_rate": "151.61"
+            }
+          ]
+        ],
+        "bowling": [
+          [
+            {
+              "bowler": "Xavier Bartlett",
+              "overs": "2.0",
+              "maidens": "0",
+              "runs_conceded": "6",
+              "wickets": "2",
+              "economy": "3.00"
+            },
+            {
+              "bowler": "Spencer Johnson",
+              "overs": "2.0",
+              "maidens": "0",
+              "runs_conceded": "9",
+              "wickets": "1",
+              "economy": "4.50"
+            },
+            {
+              "bowler": "Will Prestwidge",
+              "overs": "3.0",
+              "maidens": "0",
+              "runs_conceded": "21",
+              "wickets": "0",
+              "economy": "7.00"
+            },
+            {
+              "bowler": "Matthew Kuhnemann",
+              "overs": "2.0",
+              "maidens": "0",
+              "runs_conceded": "15",
+              "wickets": "0",
+              "economy": "7.50"
+            },
+            {
+              "bowler": "Paul Walter",
+              "overs": "2.0",
+              "maidens": "0",
+              "runs_conceded": "31",
+              "wickets": "0",
+              "economy": "15.50"
+            },
+            {
+              "bowler": "Mitchell Swepson",
+              "overs": "1.0",
+              "maidens": "0",
+              "runs_conceded": "13",
+              "wickets": "0",
+              "economy": "13.00"
+            }
+          ]
+        ],
+        "fall_of_wickets": [
+          {
+            "batsman": "Ben Duckett",
+            "score": "0-1",
+            "overs": "0.1"
+          },
+          {
+            "batsman": "Sam Harper(WK)",
+            "score": "14-2",
+            "overs": "3.0"
+          },
+          {
+            "batsman": "Thomas Rogers",
+            "score": "14-3",
+            "overs": "3.1"
+          }
+        ],
+        "partnerships": [
+          {
+            "wicket": "1ST Wicket",
+            "batter1": "Ben Duckett",
+            "batter1_stats": "(1)",
+            "total_runs": "0(1)",
+            "batter2": "Thomas Rogers",
+            "batter2_stats": "(0)"
+          },
+          {
+            "wicket": "2ND Wicket",
+            "batter1": "Thomas Rogers",
+            "batter1_stats": "(6)",
+            "total_runs": "14(17)",
+            "batter2": "Sam Harper",
+            "batter2_stats": "(11)"
+          },
+          {
+            "wicket": "3RD Wicket",
+            "batter1": "Thomas Rogers",
+            "batter1_stats": "(1)",
+            "total_runs": "0(1)",
+            "batter2": "Daniel Lawrence",
+            "batter2_stats": "(0)"
+          },
+          {
+            "wicket": "4TH Wicket",
+            "batter1": "Daniel Lawrence",
+            "batter1_stats": "(22)",
+            "total_runs": "85(53)",
+            "batter2": "Marcus Stoinis",
+            "batter2_stats": "(31)"
+          }
+        ],
+        "yet_to_bat": [
+          {
+            "name": "H Cartwright",
+            "average": "28.10"
+          },
+          {
+            "name": "G Maxwell",
+            "average": "33.40"
+          },
+          {
+            "name": "U Mir",
+            "average": "3.00"
+          },
+          {
+            "name": "M Steketee",
+            "average": "6.92"
+          },
+          {
+            "name": "J Paris",
+            "average": "7.18"
+          },
+          {
+            "name": "P Siddle",
+            "average": "6.10"
+          }
+        ]
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "status": "Upcoming",
+      "teams": [
+        "New Zealand",
+        "Sri Lanka"
+      ],
+      "match_link": "https://crex.live/scoreboard/QEJ/1MZ/3rd-T20/R/T/nz-vs-sl-3rd-t20-sri-lanka-tour-of-new-zealand-2024-25/info",
+      "info_data": {
+        "match_venue": "Saxton Oval, Nelson",
+        "match_date": "Jan 2, 2025, 5:45:00 AM",
+        "teams_name": [
+          "New Zealand",
+          "Sri Lanka"
+        ],
+        "series_name": "SL vs NZ 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "7",
+          "3"
+        ],
+        "match_result": [
+          "NZ186/520.0NZ Won 2nd T20I, SL vs NZ 2024-25SL19.1141",
+          "NZ172/820.0NZ Won 1st T20I, SL vs NZ 2024-25SL20.0164/8",
+          "SL10319.5NZ Won 2nd T20I, NZ vs SL 2024NZ19.3108",
+          "SL140/619.0SL Won 1st T20I, NZ vs SL 2024NZ19.3135",
+          "NZ183/619.5NZ Won 3rd T20I, NZ vs SL 2023SL20.0182/6"
+        ],
+        "scorecard_table": "10  Matches Played  10  60%  Win  30%  127  Avg Score  152  186  Highest Score  179  41  Lowest Score  103",
+        "venue_details": "Saxton Oval, Nelson15.5˚CCloudyCloudy96% (Humidity)49 % Chance",
+        "venue_stats": "2MatchesWin Bat first100%Win Bowl first0%Avg 1st Inns183Avg 2st Inns153Highest Totalby WI vs NZ187-7 Lowest Totalby WI vs NZ140-10 Lowest Defendedby ENG vs NZ180-7",
+        "pace_vs_spin_on_venue": "Pace66 Wkt52%48%Spin61 Wkt"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "NZ",
+            "playing_11": [
+              {
+                "player_name": "T Robinson",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Ravindra",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Chapman",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "G Phillips",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "D Mitchell",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Hay",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Bracewell",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Santner",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "Z Foulkes",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Henry",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Duffy",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Jacobs",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N Smith",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "SL",
+            "playing_11": [
+              {
+                "player_name": "P Nissanka",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Mendis",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Perera",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Mendis",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "C Asalanka",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Fernando",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "W Hasaranga",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Theekshana",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Fernando",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Pathirana",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Thushara",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Fernando",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Rajapaksa",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C Wickramasinghe",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "D Chandimal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Vandersay",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Sialkot Region",
+        "Peshawar Region"
+      ],
+      "match_link": "https://crex.live/scoreboard/S7H/1NJ/Final/62/TM/psw-vs-sial-final-quaid-e-azam-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "United Bank Limited Sports Complex Karachi",
+        "match_date": "Jan 2, 2025, 10:30:00 AM",
+        "teams_name": [
+          "Sialkot Region",
+          "Peshawar Region"
+        ],
+        "series_name": "QEA Trophy 2024",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "1",
+          "0"
+        ],
+        "match_result": [
+          "PSW171&182SIAL Won 1st Qtr Finalth TEST, QEA Trophy 2024SIAL133.1410"
+        ],
+        "scorecard_table": "7  Matches Played  10  57%  Win  40%  408  Avg Score  337  535  Highest Score  589  263  Lowest Score  171",
+        "venue_details": "United Bank Limited Sports Complex Karachi26.1˚CMostly cloudyMostly cloudy19% (Humidity)0 % Chance",
+        "venue_stats": "N/A",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "SIAL",
+            "playing_11": [
+              {
+                "player_name": "M Huraira",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Awais",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "F Jamil",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Mehmood",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Rehman",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Riaz",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Butt",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Manzoor",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Bhatti",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Ali",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S A Jnr",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "U Mir",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A H Bhatti",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Raza",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Nazar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Waleed",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Aslam",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Ali",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "PSW",
+            "playing_11": [
+              {
+                "player_name": "W Ahmed",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M A Sadaqat",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Ibrahim",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Obaidullah",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N Gul",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "Z Khan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Haris",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Khan",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Khan",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Umar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Hamza",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "I Ahmed",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A B Jnr",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A K JNR",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "Israrullah",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Ibrahim",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M A Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Zulkifal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Farhan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M I JNR",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Ahmed",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Tariq",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Durbar Rajshahi",
+        "Dhaka Capitals"
+      ],
+      "match_link": "https://crex.live/scoreboard/S1R/1OV/5th-Match/AH/UC/dc-vs-dr-5th-match-bangladesh-premier-league-2024-25/info",
+      "info_data": {
+        "match_venue": "Sher-e-Bangla National Stadium, Dhaka",
+        "match_date": "Jan 2, 2025, 1:00:00 PM",
+        "teams_name": [
+          "Durbar Rajshahi",
+          "Dhaka Capitals"
+        ],
+        "series_name": "BPL 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "N/A",
+          "N/A"
+        ],
+        "match_result": [],
+        "scorecard_table": "10  Matches Played  10  40%  Win  0%  157  Avg Score  140  213  Highest Score  175  107  Lowest Score  115",
+        "venue_details": "Sher-e-Bangla National Stadium, Dhaka17.8˚CFoggyFoggy82% (Humidity)0 % Chance",
+        "venue_stats": "269MatchesWin Bat first47%Win Bowl first51%Avg 1st Inns151Avg 2st Inns138Highest Totalby CW vs KT218-2 Lowest Totalby RGR vs KT44-10 Highest Chasedby KT vs DP207-2 Lowest Defendedby DR vs CK99-9",
+        "pace_vs_spin_on_venue": "Pace70 Wkt60%40%Spin46 Wkt"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "DR",
+            "playing_11": [
+              {
+                "player_name": "M Haris",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Alam",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Haque",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Y Ali",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Burl",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Ali",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Murad",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "L Samarakoon",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S M M Hasan",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Chowdhury",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "T Ahmed",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Minhas",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Payel",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Rahman",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Sheikh",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Nasim",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Hossain",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Islam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Islam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Zahiduzzaman",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "DC",
+            "playing_11": [
+              {
+                "player_name": "T Hasan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "L Das",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Rahman",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Eskinazi",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "F Safi",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Perera",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Babu",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Hamza",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Islam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Islam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Rahman",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Jayed",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Hasan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Roy",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Kotze",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Charles",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M H Rana",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Shahriar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Hassan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Rahman",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Ayub",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S H Dipu",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Dahani",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Ranjane",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "Z Khan",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Zimbabwe",
+        "Afghanistan"
+      ],
+      "match_link": "https://crex.live/scoreboard/RVC/1P5/2nd-TEST/X/Y/afg-vs-zim-2nd-test-afghanistan-tour-of-zimbabwe-2024-25/info",
+      "info_data": {
+        "match_venue": "Queens Sports Club Bulawayo",
+        "match_date": "Jan 2, 2025, 1:30:00 PM",
+        "teams_name": [
+          "Zimbabwe",
+          "Afghanistan"
+        ],
+        "series_name": "AFG vs ZIM 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "1",
+          "1"
+        ],
+        "match_result": [
+          "ZIM586&142/4Match Drawn1st TEST, AFG vs ZIM 2024-25AFG197.0699",
+          "ZIM287&365Afghanistan won 2nd TEST, ZIM vs AFG 2021AFG545/4&108/4",
+          "ZIM250&17/0Zimbabwe won 1st TEST, ZIM vs AFG 2021AFG131&135"
+        ],
+        "scorecard_table": "10  Matches Played  10  10%  Win  30%  267  Avg Score  282  586  Highest Score  699  115  Lowest Score  109",
+        "venue_details": "Queens Sports Club Bulawayo25.3˚CClouds and sunClouds and sun63% (Humidity)40 % Chance",
+        "venue_stats": "10MatchesWin Bat first30%Win Bowl first60%Avg 1st Inns355Avg 2st Inns424Avg 3rd Inns223Avg 4th Inns125Highest Totalby AFG vs ZIM699-10 Lowest Totalby ZIM vs PAK88-3",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "ZIM",
+            "playing_11": [
+              {
+                "player_name": "J Gumbie",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Curran",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Kaitano",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Williams",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "D Myers",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C Ervine",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Bennett",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "B Mavuta",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Nyamhuri",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Muzarabani",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "T Gwandu",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Campbell",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Mayavo",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Ngarava",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Raza",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "T Marumani",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Chataira",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "AFG",
+            "playing_11": [
+              {
+                "player_name": "S Atal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Malik",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Shah",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Shahidi",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Zazai",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Kamal",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Omarzai",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "Zia-ur-Rehman",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A M Ghazanfar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Zadran",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "Z Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Shah",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Ahmad",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "F A Malik",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "I AliKhil",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "I Alam",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Khan",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Hassan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Y Ahmadzai",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Z Shehzad",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Melbourne Renegades",
+        "Adelaide Strikers"
+      ],
+      "match_link": "https://crex.live/scoreboard/QCZ/1MV/20th-Match/4L/4Q/ads-vs-mlr-20th-match-big-bash-league-2024-25/info",
+      "info_data": {
+        "match_venue": "Docklands Stadium, Melbourne",
+        "match_date": "Jan 2, 2025, 1:45:00 PM",
+        "teams_name": [
+          "Melbourne Renegades",
+          "Adelaide Strikers"
+        ],
+        "series_name": "BBL 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "4",
+          "6"
+        ],
+        "match_result": [
+          "MLR178/618.4MLR Won 18th T20I, BBL 2023-24ADS20.0177/6",
+          "MLR143/418.2MLR Won 54th T20I, BBL 2022-23ADS20.0142/7",
+          "ADS202/420.0ADS Won 36th T20I, BBL 2022-23MLR20.0182/6",
+          "ADS14919.0ADS Won 6th T20I, BBL 2021-22MLR18.4100",
+          "MLR153/920.0MLR Won 3rd T20I, BBL 2021-22ADS20.0151/8"
+        ],
+        "scorecard_table": "10  Matches Played  10  50%  Win  50%  135  Avg Score  167  177  Highest Score  203  78  Lowest Score  139",
+        "venue_details": "Docklands Stadium, Melbourne17.2˚CMostly cloudyMostly cloudy67% (Humidity)15 % Chance",
+        "venue_stats": "67MatchesWin Bat first48%Win Bowl first52%Avg 1st Inns160Avg 2st Inns145Highest Totalby HBH vs MLR223-8 Lowest Totalby MLS vs MLR57-10 Highest Chasedby HBH vs MLR223-8 Lowest Defendedby SYS vs MLR132-7",
+        "pace_vs_spin_on_venue": "Pace70 Wkt71%29%Spin29 Wkt"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "MLR",
+            "playing_11": [
+              {
+                "player_name": "J Brown",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Fraser-McGurk",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Seifert",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Bethell",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "L Evans",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Harvey",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "W Sutherland",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "F O'Neill",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Rogers",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Zampa",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Richardson",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Dixon",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "G Sandhu",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Wells",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N Lyon",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Harris",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "X Crone",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "ADS",
+            "playing_11": [
+              {
+                "player_name": "M Short",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "D Short",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C Lynn",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "O Pope",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Ross",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Overton",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Bazley",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "L Scott",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Thornton",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "C Boyce",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "L Pope",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Weatherald",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Buckingham",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Carey",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Doggett",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Nielsen",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Head",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Kelly",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Manenti",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Fortune Barishal",
+        "Rangpur Riders"
+      ],
+      "match_link": "https://crex.live/scoreboard/S1S/1OV/6th-Match/5T/G8/frb-vs-rgr-6th-match-bangladesh-premier-league-2024-25/info",
+      "info_data": {
+        "match_venue": "Sher-e-Bangla National Stadium, Dhaka",
+        "match_date": "Jan 2, 2025, 6:00:00 PM",
+        "teams_name": [
+          "Fortune Barishal",
+          "Rangpur Riders"
+        ],
+        "series_name": "BPL 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "4",
+          "2"
+        ],
+        "match_result": [
+          "FRB152/418.3FRB Won Qualifier 2, BPL 2024RGR20.0149/7",
+          "RGR155/919.3RGR Won 38th T20I, BPL 2024FRB20.0151/9",
+          "RGR134/920.0FRB Won 3rd T20I, BPL 2024FRB19.1138/5",
+          "RGR172/619.3RGR Won Eliminator 1, BPL 2023FRB20.0170/3",
+          "FRB238/420.0FRB Won 18th T20I, BPL 2023RGR20.0171/9"
+        ],
+        "scorecard_table": "10  Matches Played  10  80%  Win  50%  162  Avg Score  148  200  Highest Score  191  129  Lowest Score  85",
+        "venue_details": "Sher-e-Bangla National Stadium, Dhaka17.8˚CFoggyFoggy82% (Humidity)0 % Chance",
+        "venue_stats": "271MatchesWin Bat first48%Win Bowl first50%Avg 1st Inns152Avg 2st Inns138Highest Totalby CW vs KT218-2 Lowest Totalby RGR vs KT44-10 Highest Chasedby KT vs DP207-2 Lowest Defendedby DR vs CK99-9",
+        "pace_vs_spin_on_venue": "Pace74 Wkt60%40%Spin50 Wkt"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "FRB",
+            "playing_11": [
+              {
+                "player_name": "N H Shanto",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Iqbal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Hridoy",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Mayers",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Rahim",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Riyad",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Afridi",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "F Ashraf",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Nabi",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "T Islam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Mondol",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Islam",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Malan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "E Hossain",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "I H Emmon",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Khan",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Fuller",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Ali",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Burger",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Hasan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Nissanka",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Kumar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Kumar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Hossain",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Islam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "T Islam",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "RGR",
+            "playing_11": [
+              {
+                "player_name": "S Taylor",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Hales",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Hassan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "I Ahmed",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Shah",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N Hasan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Hasan",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Saifuddin",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Hasan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K I Rabbi",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Rana",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Javed",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A M Ghazanfar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Hakim",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "C Campher",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "I Sukkur",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R R Raja",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Netravalkar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Atal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Sarkar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Khan",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Voyagers",
+        "Titans BRB"
+      ],
+      "match_link": "https://crex.live/scoreboard/SN9/1Q1/12th-Match/10Q/10R/tit-vs-voy-12th-match-barbados-t10-2024-25/info",
+      "info_data": {
+        "match_venue": "Windward Park, Lucas Street, Barbados",
+        "match_date": "Jan 2, 2025, 9:30:00 PM",
+        "teams_name": [
+          "Voyagers",
+          "Titans BRB"
+        ],
+        "series_name": "Barbados T10 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "N/A",
+          "N/A"
+        ],
+        "match_result": [],
+        "scorecard_table": "3  Matches Played  3  0%  Win  0%  104  Avg Score  102  120  Highest Score  126  84  Lowest Score  89",
+        "venue_details": "Windward Park, Lucas Street, Barbados22.5˚CCloudyCloudy63% (Humidity)3 % Chance",
+        "venue_stats": "11MatchesWin Bat first55%Win Bowl first45%Avg 1st Inns107Avg 2st Inns97Highest Totalby SET vs GUA146-1 Lowest Totalby GUA vs WAR43-9 Highest Chasedby PEL vs TIT132-6 Lowest Defendedby SET vs VOY129-1",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "VOY",
+            "playing_11": [
+              {
+                "player_name": "J Greene",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Springer",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Smith",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "G Depeiza",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Leverock",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Albert",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Grosvenor",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "L Babb",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Goodridge",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Samuel",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Worrell",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Brooks",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Currency",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Springer",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Jones",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "TIT",
+            "playing_11": [
+              {
+                "player_name": "S Brathwaite",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Dorne",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N Sealy",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Nurse",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Young",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Jones",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Reifer",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "C Maynard",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Griffith",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Harte",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "D Davis",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Pollard",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "T Roach",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Jones",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "I Boyce",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Marshall",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Settlers",
+        "Pelicans"
+      ],
+      "match_link": "https://crex.live/scoreboard/SNA/1Q1/13th-Match/10P/10S/pel-vs-set-13th-match-barbados-t10-2024-25/info",
+      "info_data": {
+        "match_venue": "Windward Park, Lucas Street, Barbados",
+        "match_date": "Jan 3, 2025, 12:00:00 AM",
+        "teams_name": [
+          "Settlers",
+          "Pelicans"
+        ],
+        "series_name": "Barbados T10 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "N/A",
+          "N/A"
+        ],
+        "match_result": [],
+        "scorecard_table": "4  Matches Played  4  75%  Win  75%  119  Avg Score  108  146  Highest Score  132  96  Lowest Score  87",
+        "venue_details": "Windward Park, Lucas Street, Barbados22.5˚CCloudyCloudy63% (Humidity)3 % Chance",
+        "venue_stats": "11MatchesWin Bat first55%Win Bowl first45%Avg 1st Inns107Avg 2st Inns97Highest Totalby SET vs GUA146-1 Lowest Totalby GUA vs WAR43-9 Highest Chasedby PEL vs TIT132-6 Lowest Defendedby SET vs VOY129-1",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "SET",
+            "playing_11": [
+              {
+                "player_name": "K Alleyne",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Stoute",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Wickham",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N Kirton",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M W Goodman",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Richards",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C Boyce",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Z Clarke",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Cumberbatch",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Lorde",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Marshall",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Drakes",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "L Greenidge",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Bynoe",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Z Carter",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "PEL",
+            "playing_11": [
+              {
+                "player_name": "Z McCaskie",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Jordan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Drakes",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Bolden",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Reifer",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Jordan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "C Brathwaite",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "C Holder",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Edmund",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "I Folkes",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Pinder",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Perryman",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Ifil",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Bishop",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Persaud",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "T O’Neale",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Australia",
+        "India"
+      ],
+      "match_link": "https://crex.live/scoreboard/OVY/1KL/5th-TEST/O/Q/aus-vs-ind-5th-test-india-tour-of-australia-2024-25/info",
+      "info_data": {
+        "match_venue": "Sydney Cricket Ground, Sydney",
+        "match_date": "Jan 3, 2025, 5:00:00 AM",
+        "teams_name": [
+          "Australia",
+          "India"
+        ],
+        "series_name": "BGT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "5",
+          "5"
+        ],
+        "match_result": [
+          "AUS474&234AUS Won 4th TEST, BGT 2024-25IND369&155",
+          "AUS445&89/7Match Drawn3rd TEST, BGT 2024-25IND260&8/0",
+          "AUS337&19/0AUS Won 2nd TEST, BGT 2024-25IND180&175",
+          "AUS104&238IND Won 1st TEST, BGT 2024-25IND150&487/6",
+          "AUS469&270/8AUS Won Final, WTC Final 2023IND296&234"
+        ],
+        "scorecard_table": "10  Matches Played  10  70%  Win  40%  318  Avg Score  234  474  Highest Score  376  104  Lowest Score  46",
+        "venue_details": "Sydney Cricket Ground, Sydney24.4˚CMostly clearMostly clear81% (Humidity)17 % Chance",
+        "venue_stats": "20MatchesWin Bat first40%Win Bowl first30%Avg 1st Inns394Avg 2st Inns371Avg 3rd Inns234Avg 4th Inns158Highest Totalby IND vs AUS659-4 Lowest Totalby PAK vs AUS62-1",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "AUS",
+            "playing_11": [
+              {
+                "player_name": "S Konstas",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "U Khawaja",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Labuschagne",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Smith",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Head",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Marsh",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Carey",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Cummins",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Starc",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Lyon",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Boland",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Inglis",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Hazlewood",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Webster",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S A Abbott",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Richardson",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "IND",
+            "playing_11": [
+              {
+                "player_name": "Y Jaiswal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Sharma",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Rahul",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "V Kohli",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Deep",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Pant",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Jadeja",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N K Reddy",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "W Sundar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Bumrah",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Siraj",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Gill",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Khan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Jurel",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Easwaran",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Krishna",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Rana",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "D Padikkal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Kotian",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Auckland Women",
+        "Canterbury Women"
+      ],
+      "match_link": "https://crex.live/scoreboard/SB8/1PT/6th-Match/JV/JW/ahw-vs-cmw-6th-match-womens-super-smash-2024-25/info",
+      "info_data": {
+        "match_venue": "Eden Park Outer Oval, Auckland",
+        "match_date": "Jan 3, 2025, 5:10:00 AM",
+        "teams_name": [
+          "Auckland Women",
+          "Canterbury Women"
+        ],
+        "series_name": "W-Super Smash 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "3",
+          "3"
+        ],
+        "match_result": [
+          "CMW152/720.0AUCK-W Won 16th T20I, W-Super Smash 2023-24AHW20.0153/6",
+          "AHW116/720.0CANT-W Won 1st T20I, W-Super Smash 2023-24CMW20.0127/8",
+          "AHW110/920.0CAN-W Won 15th T20I, W-Super Smash 22-23CMW20.0137/8",
+          "CMW145/419.0CAN-W Won 3rd T20I, W-Super Smash 22-23AHW20.0144/4",
+          "CMW123/620.0AUCK-W Won 25th T20I, W-Super Smash 21-22AHW20.0131/9"
+        ],
+        "scorecard_table": "10  Matches Played  10  30%  Win  30%  120  Avg Score  111  153  Highest Score  152  93  Lowest Score  53",
+        "venue_details": "Eden Park Outer Oval, Auckland17.8˚CPartly cloudyPartly cloudy83% (Humidity)90 % Chance",
+        "venue_stats": "8MatchesWin Bat first25%Win Bowl first75%Avg 1st Inns133Avg 2st Inns115Highest Totalby OTG-W vs AUCK-W159-3 Lowest Totalby AUCK-W vs WEL-W93-7 Highest Chasedby AUCK-W vs CH-W114-3 Lowest Defendedby OTG-W vs AUCK-W159-3",
+        "pace_vs_spin_on_venue": "Pace87 Wkt72%28%Spin34 Wkt"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "AHW",
+            "playing_11": [
+              {
+                "player_name": "S Shahri",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "I Gaze",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Green",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Halliday",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "L Down",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Catton",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "B Armstrong",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Penfold",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Penfold",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Illing",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "F Jonas",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "O Anderson",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "E Buchanan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Hucker",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Irwin",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Jaswal",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "C Pedersen",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "CMW",
+            "playing_11": [
+              {
+                "player_name": "K Anderson",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Dean",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Penna",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "I Sharp",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Ebrahim",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Cox",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Pandey",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Banks",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "L Hughes",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "G Sullivan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Asmussen",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "E Irwin",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "F Mackay",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A G Hotton",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Graham",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Simmons",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Auckland",
+        "Canterbury"
+      ],
+      "match_link": "https://crex.live/scoreboard/RF1/1OK/6th-Match/53/55/auck-vs-cant-6th-match-super-smash-2024-25/info",
+      "info_data": {
+        "match_venue": "Eden Park Outer Oval, Auckland",
+        "match_date": "Jan 3, 2025, 8:55:00 AM",
+        "teams_name": [
+          "Auckland",
+          "Canterbury"
+        ],
+        "series_name": "Super Smash 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "5",
+          "5"
+        ],
+        "match_result": [
+          "CANT140/520.0AUK Won 16th T20I, Super Smash 2023-24AUCK15.2141/2",
+          "AUCK185/520.0AUK Won 1st T20I, Super Smash 2023-24CANT17.5157",
+          "AUCK140/520.0CAN Won (DLS Method)15th T20I, Super Smash 2022-23CANT5.348/1",
+          "CANT147/920.0AUK Won 3rd T20I, Super Smash 2022-23AUCK19.3149/6",
+          "CANT15419.5CAN Won 25th T20I, Super Smash 2021-22AUCK20.0136/7"
+        ],
+        "scorecard_table": "10  Matches Played  10  70%  Win  60%  152  Avg Score  176  192  Highest Score  228  119  Lowest Score  140",
+        "venue_details": "Eden Park Outer Oval, Auckland17.8˚CPartly cloudyPartly cloudy83% (Humidity)90 % Chance",
+        "venue_stats": "9MatchesWin Bat first56%Win Bowl first44%Avg 1st Inns169Avg 2st Inns135Highest Totalby AUK vs WEL192-6 Lowest Totalby AUK vs CAN48-1 Highest Chasedby AUK vs WEL156-8",
+        "pace_vs_spin_on_venue": "Pace87 Wkt72%28%Spin34 Wkt"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "AUCK",
+            "playing_11": [
+              {
+                "player_name": "M Guptill",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "W O'Donnell",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Sclanders",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Solia",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J McKenzie",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "C Fletcher",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Dixit",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Keene",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Ashok",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "D Ferns",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Lister",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "L Delport",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Gibson",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "B Jacobs",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Johal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Q Sunde",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Olliver",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J D Sussex",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Chapman",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "CANT",
+            "playing_11": [
+              {
+                "player_name": "C Bowes",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Latham",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Boyle",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C McConchie",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Chamberlain",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Rippon",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Shipley",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Jamieson",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "I Sodhi",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A McKenzie",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Rae",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Davey",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "Z Foulkes",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Hay",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Mariu",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K McClure",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "E Nuttall",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Rowe",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "F Sheat",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "C Paul",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "W O'Rourke",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Nicholls",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Henry",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "D Mitchell",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Frew",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Mumbai",
+        "Puducherry"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFR/1M1/91st-Match/GM/GP/mum-vs-pdc-91st-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "N/A",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Mumbai",
+          "Puducherry"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "3",
+          "1"
+        ],
+        "match_result": [
+          "MUM69/312.3MUM Won 57th ODI, VHT 2023PDC24.467",
+          "MUM141/124.2MUM Won 92nd ODI, VHT 2022PDC38.0139",
+          "MUM13948.1PDC Won 92nd ODI, VHT 2021-22PDC46.0157",
+          "PDC22438.1Mumbai won 51st ODI, VHT 2021MUM50.0457/4"
+        ],
+        "scorecard_table": "10  Matches Played  10  50%  Win  40%  205  Avg Score  186  403  Highest Score  372  69  Lowest Score  67",
+        "venue_details": "N/A",
+        "venue_stats": "9MatchesWin Bat first33%Win Bowl first67%Avg 1st Inns236Avg 2st Inns191Highest Totalby CG vs MIZ364-4 Lowest Totalby BHR vs HAR112-10 Highest Chasedby UTK vs CG309-4 Lowest Defendedby CG vs MIZ364-4",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "MUM",
+            "playing_11": [
+              {
+                "player_name": "S Lad",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Raghuvanshi",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Tamore",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "S Yadav",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Dube",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "T Kotian",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Shedge",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Thakur",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Ankolekar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J G Bista",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Dias",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Mhatre",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M J Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Pawar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Iyer",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H V Singh",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "V Bhoir",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Tanna",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "PDC",
+            "playing_11": [
+              {
+                "player_name": "A Karthik",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "G S Raju",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Khan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Sharma",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M A Jawad",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "F Ahmed",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "G Yadav",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S J B",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J S R",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Kale",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N S Kangayan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Kargave",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Jayasundaram",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "V Marimuthu",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Rajavelu",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Rohera",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "S Chadha",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Ratnaparkhe",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Sivamurugan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S P Udeshi",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "V Raja",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "G Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Yadav",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Saurashtra",
+        "Karnataka"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFS/1M1/92nd-Match/GT/H9/kar-vs-saur-92nd-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "N/A",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Saurashtra",
+          "Karnataka"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "1",
+          "0"
+        ],
+        "match_result": [
+          "KAR17149.1SAUR Won 1st Semi Final, VHT 2022SAUR36.2172/5"
+        ],
+        "scorecard_table": "10  Matches Played  10  60%  Win  70%  203  Avg Score  236  367  Highest Score  383  102  Lowest Score  126",
+        "venue_details": "N/A",
+        "venue_stats": "12MatchesWin Bat first25%Win Bowl first75%Avg 1st Inns240Avg 2st Inns213Highest Totalby HYD vs KAR322-7 Lowest Totalby MIZ vs DEL128-10 Highest Chasedby HYD vs KAR322-7",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "SAUR",
+            "playing_11": [
+              {
+                "player_name": "H Desai",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "S Jackson",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "T Gohel",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "A Vasavada",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C Jani",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "P Mankad",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Unadkat",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "D Jadeja",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Ahir",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "P Bhut",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "V Jadeja",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Gohil",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Kanbi",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Karia",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Panwar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Rana",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Vora",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "KAR",
+            "playing_11": [
+              {
+                "player_name": "M Agarwal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Gopal",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Shetty",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A K V",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Bedare",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M S Bhandage",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "P Dubey",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Raj",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "V Koushik",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Manohar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Jose",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "V Patil",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Shrijith",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "L S Sisodia",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "R Smaran",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "V Vijaykumar",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Chhattisgarh",
+        "Jammu and Kashmir"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFT/1M1/93rd-Match/H0/HB/chg-vs-j&k-93rd-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "Dr. Y. S. Rajasekhara Reddy ACA–VDCA Cricket Stadium, Visakhapatnam",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Chhattisgarh",
+          "Jammu and Kashmir"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "N/A",
+          "N/A"
+        ],
+        "match_result": [],
+        "scorecard_table": "10  Matches Played  10  50%  Win  30%  252  Avg Score  259  342  Highest Score  377  80  Lowest Score  138",
+        "venue_details": "N/A",
+        "venue_stats": "5MatchesWin Bat first40%Win Bowl first60%Avg 1st Inns199Avg 2st Inns177Highest Totalby VID vs CG316-5 Highest Chasedby VID vs CG316-5",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "CHG",
+            "playing_11": [
+              {
+                "player_name": "A Khare",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A J Mandal",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Tiwary",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Chouhan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Pandey",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Lalwani",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "E Kerkar",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "G Singh",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Yadav",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Kiran",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P S Painkra",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "P Yadav",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Soni",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S J Desai",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Agarwal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Butte",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "J&K",
+            "playing_11": [
+              {
+                "player_name": "P Dogra",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Q Iqbal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "V Sharma",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Khajuria",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Samad",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Ajaz",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Sharma",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "L N Muzaffar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Mushtaq",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Nabi",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Salam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Lotra",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Pundir",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Y Singh",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S R Kumar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "V Sharma",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Tamil Nadu",
+        "Mizoram"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFU/1M1/94th-Match/GI/H7/miz-vs-tn-94th-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "N/A",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Tamil Nadu",
+          "Mizoram"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "N/A",
+          "N/A"
+        ],
+        "match_result": [],
+        "scorecard_table": "10  Matches Played  10  70%  Win  10%  204  Avg Score  159  353  Highest Score  258  73  Lowest Score  124",
+        "venue_details": "N/A",
+        "venue_stats": "4MatchesWin Bat first50%Win Bowl first50%Avg 1st Inns176Avg 2st Inns130Highest Totalby TN vs J&K353-6 Highest Chasedby UP vs CG275-6",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "TN",
+            "playing_11": [
+              {
+                "player_name": "N Jagadeesan",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "C A Siddarth",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Indrajith",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Kumar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P R Paul",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "S Khan",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "T Raheja",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "V Shankar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R S Kishore",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S A Ram",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S M Ali",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Warrier",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "V Chakaravarthy",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Ragavendra",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "C Achyuth",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "MIZ",
+            "playing_11": [
+              {
+                "player_name": "K Cariappa",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Ralte",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Zothansanga",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Anderson",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Chopra",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Chowdury",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Jangra",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "G Lalbiakvela",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Lalhriatrenga",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Lalrinhlua",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Lalthankhuma",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Ahmed",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "L Ralte",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Ramhlunmawia",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Vanrotlinga",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "L Varte",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Uttar Pradesh",
+        "Vidarbha"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFV/1M1/95th-Match/GU/HD/up-vs-vid-95th-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "Vizzy Stadium, Vizianagaram",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Uttar Pradesh",
+          "Vidarbha"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "N/A",
+          "N/A"
+        ],
+        "match_result": [],
+        "scorecard_table": "10  Matches Played  10  70%  Win  70%  202  Avg Score  226  277  Highest Score  316  103  Lowest Score  83",
+        "venue_details": "N/A",
+        "venue_stats": "5MatchesWin Bat first60%Win Bowl first40%Avg 1st Inns207Avg 2st Inns169Highest Totalby J&K vs MIZ377-6 Highest Chasedby VID vs J&K225-4",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "UP",
+            "playing_11": [
+              {
+                "player_name": "R Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Goswami",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Garg",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Juyal",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "M Kaushik",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Nath",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Rana",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Kumar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Sharma",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Kumar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Mavi",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Yadav",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "A B V Rai",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Jaiswal",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Singh",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "V Nigam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "V Panwar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Y Dayal",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Rizvi",
+                "player_type": "Batter"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "VID",
+            "playing_11": [
+              {
+                "player_name": "K Nair",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Dubey",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Mokhade",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "Y Rathod",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Sharma",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "D Shorey",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Wadkar",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "A Wankhade",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "N Bhute",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Dubey",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Taide",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "D Nalkande",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A S Thakare",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Y Thakur",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "P Hinge",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Y Kadam",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Rekhade",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Baroda",
+        "Madhya Pradesh"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFW/1M1/96th-Match/GQ/GW/brd-vs-mp-96th-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "N/A",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Baroda",
+          "Madhya Pradesh"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "0",
+          "2"
+        ],
+        "match_result": [
+          "BRD263/950.0MP Won 89th ODI, VHT 2023MP48.5266/6",
+          "BRD5917.1MP Won 113th ODI, VHT 2022MP50.0349/7"
+        ],
+        "scorecard_table": "10  Matches Played  10  60%  Win  70%  256  Avg Score  195  403  Highest Score  349  124  Lowest Score  61",
+        "venue_details": "N/A",
+        "venue_stats": "5MatchesWin Bat first60%Win Bowl first40%Avg 1st Inns217Avg 2st Inns175Highest Totalby DEL vs KER258-5 Lowest Totalby BEN vs TRI42-2 Highest Chasedby TRI vs BIHR228-5",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "BRD",
+            "playing_11": [
+              {
+                "player_name": "V Solanki",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "S Sharma",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Pandya",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Sheth",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Singh",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Bhatt",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Limbani",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "L Meriwala",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Singh",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "P Kohli",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Pania",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Passi",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B Pathan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Pithiya",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Rathva",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Rawat",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "L M Toksiya",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Pandya",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "MP",
+            "playing_11": [
+              {
+                "player_name": "R Patidar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H S Bhatia",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Senapati",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "V Iyer",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Sharma",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Kartikeya",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Khejroliya",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Batham",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "Y Dubey",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Gawli",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "S Jain",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "H Mantri",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "A Pandey",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Solanki",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Bengal",
+        "Bihar"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFX/1M1/97th-Match/GD/H4/ben-vs-bihr-97th-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "Gymkhana Ground, Hyderabad",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Bengal",
+          "Bihar"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "N/A",
+          "N/A"
+        ],
+        "match_result": [],
+        "scorecard_table": "10  Matches Played  10  80%  Win  10%  222  Avg Score  182  314  Highest Score  241  84  Lowest Score  112",
+        "venue_details": "N/A",
+        "venue_stats": "5MatchesWin Bat first60%Win Bowl first40%Avg 1st Inns241Avg 2st Inns182Highest Totalby DEL vs TRI306-6 Lowest Totalby MP vs KER99-5 Highest Chasedby BEN vs BRD229-3 Lowest Defendedby BRD vs TRI302-7",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "BEN",
+            "playing_11": [
+              {
+                "player_name": "S K Gharami",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Majumdar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Porel",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "S Chatterjee",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Lal",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S H Gandhi",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Gupta",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Chatterjee",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R S Khaira",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Pramanik",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Maity",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Kumar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Chaudhary",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Kaif",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S S Jaiswal",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S S Ghosh",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Seth",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Shami",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "BIHR",
+            "playing_11": [
+              {
+                "player_name": "S Gani",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "B Saurabh",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "V Suryavanshi",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "K Rajnish",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R P Singh",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M Mahrour",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "P Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Raj",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "N Khan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "H Singh",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Kumar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Yadav",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M M Raj",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Kashyap",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "R Raj",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Choudhary",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "B S Bihari",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "H Verma",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    },
+    {
+      "status": "Upcoming",
+      "teams": [
+        "Kerala",
+        "Tripura"
+      ],
+      "match_link": "https://crex.live/scoreboard/SFY/1M1/98th-Match/GJ/HA/ker-vs-tri-98th-match-vijay-hazare-trophy-2024-25/info",
+      "info_data": {
+        "match_venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "match_date": "Jan 3, 2025, 9:00:00 AM",
+        "teams_name": [
+          "Kerala",
+          "Tripura"
+        ],
+        "series_name": "VHT 2024-25",
+        "toss_info": "N/A",
+        "head_to_head": [
+          "1",
+          "0"
+        ],
+        "match_result": [
+          "KER23147.1KER Won 58th ODI, VHT 2023TRI27.5112"
+        ],
+        "scorecard_table": "10  Matches Played  10  50%  Win  50%  216  Avg Score  226  383  Highest Score  300  67  Lowest Score  112",
+        "venue_details": "N/A",
+        "venue_stats": "6MatchesWin Bat first67%Win Bowl first33%Avg 1st Inns282Avg 2st Inns250Highest Totalby BRD vs KER403-4 Lowest Totalby DEL vs BIHR109-5 Highest Chasedby NZ vs PAK346-5",
+        "pace_vs_spin_on_venue": "N/A"
+      },
+      "squads_data": {
+        "squads": [
+          {
+            "team_name": "KER",
+            "playing_11": [
+              {
+                "player_name": "S Nizar",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Kunnummal",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Roger",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "M Azharuddeen",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "A Krishnan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "K Prasad",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "I Ahammed",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "J Saxena",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Sarwate",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Joseph",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Thampi",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "N Basil",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Nidheesh",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "E A Tom",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S N M",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "A Scaria",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Vishweshwar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "V Chandran",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "M R Ajinas",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "A Basith",
+                "player_type": "All Rounder"
+              }
+            ],
+            "on_bench": []
+          },
+          {
+            "team_name": "TRI",
+            "playing_11": [
+              {
+                "player_name": "B Das",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "R Dey",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Sharath",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "M Singh",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "K Acharjee",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "D Bhattacharjee",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "S Das",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "J Deb",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "A K Debnath",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "B Debnath",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "B Dey",
+                "player_type": "Wicket-keeper"
+              },
+              {
+                "player_name": "B Ghosh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "S Hossain",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "T Jaiswal",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "J Singh",
+                "player_type": "Batter"
+              },
+              {
+                "player_name": "M Murasingh",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "P Sultan",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Paul",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "C Paul",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Paul",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "R Dutta",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "A Sarkar",
+                "player_type": "All Rounder"
+              },
+              {
+                "player_name": "A Sarkar",
+                "player_type": "Bowler"
+              },
+              {
+                "player_name": "S Sutradhar",
+                "player_type": "Bowler"
+              }
+            ],
+            "on_bench": []
+          }
+        ]
+      },
+      "live_data": {
+        "batsmen": [],
+        "bowler": {},
+        "overs_timeline": [],
+        "win_probability": "N/A"
+      },
+      "scorecard_data": {
+        "Error": "Scorecard not available or match not started."
+      }
+    }
+  ],
+  "concluded": []
+}
